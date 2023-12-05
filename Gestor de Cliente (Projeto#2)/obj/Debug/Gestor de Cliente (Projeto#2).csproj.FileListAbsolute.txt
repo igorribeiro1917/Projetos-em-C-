@@ -1,0 +1,8 @@
+C:\Users\wande\Source\repos\Gestor de Cliente (Projeto#2)\Gestor de Cliente (Projeto#2)\bin\Debug\Gestor de Cliente (Projeto#2).exe.config
+C:\Users\wande\Source\repos\Gestor de Cliente (Projeto#2)\Gestor de Cliente (Projeto#2)\bin\Debug\Gestor de Cliente (Projeto#2).exe
+C:\Users\wande\Source\repos\Gestor de Cliente (Projeto#2)\Gestor de Cliente (Projeto#2)\bin\Debug\Gestor de Cliente (Projeto#2).pdb
+C:\Users\wande\Source\repos\Gestor de Cliente (Projeto#2)\Gestor de Cliente (Projeto#2)\obj\Debug\Gestor de Cliente (Projeto#2).csproj.AssemblyReference.cache
+C:\Users\wande\Source\repos\Gestor de Cliente (Projeto#2)\Gestor de Cliente (Projeto#2)\obj\Debug\Gestor de Cliente (Projeto#2).csproj.SuggestedBindingRedirects.cache
+C:\Users\wande\Source\repos\Gestor de Cliente (Projeto#2)\Gestor de Cliente (Projeto#2)\obj\Debug\Gestor de Cliente (Projeto#2).csproj.CoreCompileInputs.cache
+C:\Users\wande\Source\repos\Gestor de Cliente (Projeto#2)\Gestor de Cliente (Projeto#2)\obj\Debug\Gestor de Cliente (Projeto#2).exe
+C:\Users\wande\Source\repos\Gestor de Cliente (Projeto#2)\Gestor de Cliente (Projeto#2)\obj\Debug\Gestor de Cliente (Projeto#2).pdb
